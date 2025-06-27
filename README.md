@@ -1,4 +1,4 @@
-# Substrate Predictor
+# Whole Image Classifier
 
 This repository provides tools for running substrate classification inference on underwater images using pre-trained deep learning models. The weights are for a sequential deep CNN classification model developed with Tensorflow.
 
